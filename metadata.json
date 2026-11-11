@@ -1,0 +1,6 @@
+{
+  "name": "Study App Locker",
+  "description": "Pengunci aplikasi berbasis kuis belajar (Matematika, IPA, IPS, dan Soal Custom) dengan penalti kesalahan dan durasi bermain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

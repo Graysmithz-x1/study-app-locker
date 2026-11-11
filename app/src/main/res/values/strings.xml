@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Study App Locker</string>
+    <string name="title_app_locker">Kunci Aplikasi</string>
+    <string name="title_question_bank">Bank Soal</string>
+    <string name="title_settings">Pengaturan</string>
+    <string name="title_stats">Pencapaian</string>
+
+    <string name="permission_banner_title">Izin Akses Diperlukan</string>
+    <string name="permission_banner_desc">Agar Study Lock dapat memunculkan kuis saat aplikasi terkunci dibuka, aktifkan izin Usage Access dan Display Over Other Apps.</string>
+    <string name="btn_grant_usage">Izinkan Akses Penggunaan</string>
+    <string name="btn_grant_overlay">Izinkan Tampilkan di Atas Aplikasi Lain</string>
+    <string name="btn_grant_notification">Izinkan Notifikasi</string>
+
+    <string name="search_apps_hint">Cari aplikasi terinstal…</string>
+    <string name="locked_apps_count">%1$d aplikasi dikunci</string>
+    <string name="unlocked_status">Terbuka (%1$s)</string>
+    <string name="status_locked">Terkunci</string>
+    
+    <string name="service_active_label">Layanan Pengunci Aktif</string>
+    <string name="service_active_desc">Memantau aplikasi yang dikunci secara otomatis</string>
+
+    <string name="category_math">Matematika</string>
+    <string name="category_science">IPA</string>
+    <string name="category_social">IPS</string>
+    <string name="category_custom">Soal Saya (Custom)</string>
+
+    <string name="quiz_test_button">Uji Coba Kuis Sekarang</string>
+    <string name="quiz_title">Kuis Buka Kunci</string>
+    <string name="quiz_subtitle">Selesaikan kuis untuk membuka %1$s!</string>
+    <string name="quiz_question_counter">Soal %1$d dari %2$d</string>
+    <string name="quiz_mistakes_counter">Kesalahan: %1$d / 5</string>
+    <string name="quiz_failed_title">Kuis Gagal!</string>
+    <string name="quiz_failed_desc">Kamu telah salah lebih dari 5 kali (%1$d kesalahan). Durasi habis dan kamu harus mengulang kuis dari awal untuk membuka aplikasi.</string>
+    <string name="btn_retry_quiz">Ulangi Kuis</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_back_home">Kembali ke Beranda</string>
+
+    <string name="achievement_title">Kuis Berhasil Diselesaikan!</string>
+    <string name="achievement_badge">AKSES DIBUKA</string>
+    <string name="earned_duration_label">Durasi Penggunaan Didapat</string>
+    <string name="original_duration_label">Durasi Awal: %1$d Menit</string>
+    <string name="penalty_deduction_label">Penalti: -%1$d Menit (%2$d Kesalahan)</string>
+    <string name="btn_open_target_app">Buka %1$s Sekarang</string>
+
+    <string name="notification_channel_name">Layanan Study App Locker</string>
+    <string name="notification_channel_desc">Notifikasi pemantauan pengunci aplikasi belajar</string>
+</resources>
